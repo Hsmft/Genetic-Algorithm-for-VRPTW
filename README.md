@@ -1,7 +1,6 @@
 # Genetic Algorithm for the Vehicle Routing Problem with Time Windows (VRPTW)
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a C++ implementation of a **Genetic Algorithm (GA)** designed to solve the **Vehicle Routing Problem with Time Windows (VRPTW)**. This project aims to find high-quality, near-optimal solutions by evolving a population of candidate solutions over multiple generations.
 
@@ -59,4 +58,4 @@ This command runs the solver on the `C101.txt` instance for a maximum of 60 seco
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the custom **Hesameddin Fathi Non‑Commercial & Academic Co‑Authorship License 1.0**. Please see the `LICENSE` file for full details.
