@@ -58,4 +58,4 @@ This command runs the solver on the `C101.txt` instance for a maximum of 60 seco
 ---
 
 ## 📄 License
-This project is licensed under the custom **Hesameddin Fathi Non‑Commercial & Academic Co‑Authorship License 1.0**. Please see the `LICENSE` file for full details.
+This project is licensed under the custom **Hesameddin Fathi Non‑Commercial & Academic Co‑Authorship License 1.0**. Please see the [LICENSE](./LICENSE) file for full details.
